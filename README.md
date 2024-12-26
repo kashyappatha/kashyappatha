@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: pathakkashyap80@gmail.com  
 - 😄 Pronouns: Kati
 - ⚡ Fun fact: Funny
+
+- ![Welcome GIF]("C:\Users\kashyap\Downloads\kasp.gif")
